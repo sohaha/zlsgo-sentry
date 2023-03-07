@@ -12,7 +12,7 @@ require (
 	github.com/fasthttp-contrib/websocket v0.0.0-20160511215533-1f3b11f56072 // indirect
 	github.com/flosch/pongo2 v0.0.0-20190707114632-bbf5a6c351f4 // indirect
 	github.com/gavv/httpexpect v2.0.0+incompatible // indirect
-	github.com/getsentry/sentry-go v0.18.0
+	github.com/getsentry/sentry-go v0.19.0
 	github.com/gomodule/redigo v1.7.1-0.20190724094224-574c33c3df38 // indirect
 	github.com/hashicorp/go-version v1.2.0 // indirect
 	github.com/iris-contrib/blackfriday v2.0.0+incompatible // indirect
@@ -22,8 +22,9 @@ require (
 	github.com/mediocregopher/mediocre-go-lib v0.0.0-20181029021733-cb65787f37ed // indirect
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/ryanuber/columnize v2.1.0+incompatible // indirect
-	github.com/sohaha/zlsgo v1.5.0
-	golang.org/x/crypto v0.6.0 // indirect
+	github.com/sohaha/zlsgo v1.5.1
+	golang.org/x/crypto v0.7.0 // indirect
+	golang.org/x/exp v0.0.0-20230306221820-f0f767cdffd6 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
 )
